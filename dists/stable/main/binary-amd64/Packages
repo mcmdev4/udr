@@ -1,0 +1,13 @@
+Package: gde
+Version: 1.1
+Architecture: all
+Maintainer: Hunor
+Priority: optional
+Section: utils
+Filename: pool/main/g/gde/gde_1.1_all.deb
+Size: 17464
+SHA256: fc2ed1cfa3cd3f5c0e73c82e6819176ab344f8ec9f39ecf2d81acde2439fa565
+SHA1: bf32a0746f4c25e3c761e6ec294822937daf3f42
+MD5sum: 3d934347b1402f238f6bab59616f6140
+Description: a simple tui for beginner devs
+
