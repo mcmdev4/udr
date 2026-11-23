@@ -11,3 +11,16 @@ SHA1: fd1e707966b395f03b9c0c1ef67abde51e5e91db
 MD5sum: cf0e6c750c02fa7da5ed426222ebfbb3
 Description: a simple tui for beginner devs
 
+Package: rntool
+Version: 1.0
+Architecture: all
+Maintainer: Hunor
+Priority: optional
+Section: utils
+Filename: pool/main/r/rntool/rntool_1.0_all.deb
+Size: 9804
+SHA256: 40d7ca1120505031460f710a2303f983efc26b5eaedfadbd75d5d8af4a5edb58
+SHA1: 1965ed739ed8d40d9e512ce4dfb143932537d801
+MD5sum: 0511ec0de7f8dd043949512e5b9ce643
+Description: a command renamer
+
