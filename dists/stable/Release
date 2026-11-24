@@ -2,36 +2,36 @@ Origin: Hunor
 Label: UDR
 Suite: stable
 Codename: stable
-Date: Mon, 23 Nov 2026 15:23:32 UTC
+Date: Tue, 24 Nov 2026 16:22:24 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Great tools for developers
 MD5Sum:
- 4eebe6f24ea9124d9e401f38da985011 707 main/binary-amd64/Packages
- 9d065440ef6a58bb211385058b51c545 419 main/binary-amd64/Packages.gz
+ ba15b5b696bc64e8ccd4853760e86ea5 707 main/binary-amd64/Packages
+ 4632ec0387a043c2dc8ca3e0813fa649 417 main/binary-amd64/Packages.gz
  09967e8efc44f623676f3e1670324e87 117 main/binary-amd64/Release
- 4eebe6f24ea9124d9e401f38da985011 707 main/binary-arm64/Packages
- 9d065440ef6a58bb211385058b51c545 419 main/binary-arm64/Packages.gz
+ ba15b5b696bc64e8ccd4853760e86ea5 707 main/binary-arm64/Packages
+ 4632ec0387a043c2dc8ca3e0813fa649 417 main/binary-arm64/Packages.gz
  7cb8608ace14479c55d00bd02838bd4d 117 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  bb740c4b7b7dfbc462eb4e7a457b0450 118 main/source/Release
 SHA1:
- 38ea807c18d4f5db39015a6895a2f8edc4271f6d 707 main/binary-amd64/Packages
- 35e9ba3ea1be6d0e5dcee6db9fb6d4077631cc79 419 main/binary-amd64/Packages.gz
+ 1ba8e9b061c1f19e950cc619b1463abf772fb198 707 main/binary-amd64/Packages
+ 87dca7fb723ff29da89e1e0d75ce0239ad345178 417 main/binary-amd64/Packages.gz
  140f77a7b593e39174b92d08d7dedfce307f81e4 117 main/binary-amd64/Release
- 38ea807c18d4f5db39015a6895a2f8edc4271f6d 707 main/binary-arm64/Packages
- 35e9ba3ea1be6d0e5dcee6db9fb6d4077631cc79 419 main/binary-arm64/Packages.gz
+ 1ba8e9b061c1f19e950cc619b1463abf772fb198 707 main/binary-arm64/Packages
+ 87dca7fb723ff29da89e1e0d75ce0239ad345178 417 main/binary-arm64/Packages.gz
  b854de8a40a6d3a726652eaaebb14b0eff576db2 117 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  3bab4d1485558d0a1a564f4028846ac54a6c5f65 118 main/source/Release
 SHA256:
- b2c437089eeb0c313226a4864996fe22e89b5c5c919530dde2e5f2725fcd89c0 707 main/binary-amd64/Packages
- 7d85d8c5e37fdbf57789c3981dfd2a7edbc70eefcf3f66939bf5808746161d02 419 main/binary-amd64/Packages.gz
+ 4b8f2f96eaddf3bafe13005a606bf0c537c27e3197d3397205b625f808697175 707 main/binary-amd64/Packages
+ ec295b5f89c4216ef0efae3b05d634aa7d82b3adbe7dda2406e7de5450007708 417 main/binary-amd64/Packages.gz
  d847eeeb858dbbf5143e2bec22926bcc9fe21aa7650b30608c9f2455b865ad65 117 main/binary-amd64/Release
- b2c437089eeb0c313226a4864996fe22e89b5c5c919530dde2e5f2725fcd89c0 707 main/binary-arm64/Packages
- 7d85d8c5e37fdbf57789c3981dfd2a7edbc70eefcf3f66939bf5808746161d02 419 main/binary-arm64/Packages.gz
+ 4b8f2f96eaddf3bafe13005a606bf0c537c27e3197d3397205b625f808697175 707 main/binary-arm64/Packages
+ ec295b5f89c4216ef0efae3b05d634aa7d82b3adbe7dda2406e7de5450007708 417 main/binary-arm64/Packages.gz
  64f7a80604b776d48b0f50a6faa286210f0dc331f6fb3b125f9c148721c240e5 117 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
