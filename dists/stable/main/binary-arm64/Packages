@@ -1,15 +1,15 @@
 Package: gde
-Version: 1.4
+Version: 1.5
 Architecture: all
 Maintainer: Hunor
 Depends: dialog, curl, git, gh
 Priority: optional
 Section: utils
-Filename: pool/main/g/gde/gde_1.4_all.deb
-Size: 23368
-SHA256: 7cc5efc852f1d49f383e5c8f88d107554c27eead46b5948a167b154c3b01eddd
-SHA1: adc8a8dd6ebb60573e155557332dab5f4e30390a
-MD5sum: 9722e220974e1dd7dceb1b24d2f21fb2
+Filename: pool/main/g/gde/gde_1.5_all.deb
+Size: 26640
+SHA256: cb60baa7352bf0a63eb85c01e5a09f2c24424d7178d5010b0cf5ab49d58d40fd
+SHA1: 766552aca9c6db6cb0adffd1e3a447980d93af40
+MD5sum: f0c911568843a3790cabb799ecbdea24
 Description: a simple tui for beginner devs
 
 Package: rntool
